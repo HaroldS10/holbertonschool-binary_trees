@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * binary_tree_node - Creates a new binary tree node
+ * binary_tree_insert_left - Inserts a node as the left-child of another node
  * @parent: Pointer to the parent node of the new node
  * @value: Value to assign to the new node
  *
